@@ -11,3 +11,9 @@ let timeRemaining = 0;
 let energy = 10;
 
 console.log('Game over: ', timeRemaining == 0 || energy == 0);
+
+// Add numbers using the + operator
+
+let numbers = 5 + 10;
+
+console.log(numbers);
