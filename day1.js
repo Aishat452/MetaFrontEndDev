@@ -14,3 +14,11 @@ let result2 = test2 == 0;
 console.log('Is', num1,'an even number?', result1);
 ​
 console.log('Is', num2,"an even number?", result2);
+
+// Concatenate numbers and strings using the + operator
+
+let now = 'Now in ';
+let three = 3;
+let d = 'D!';
+
+console.log(now + three + d);
