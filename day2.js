@@ -12,8 +12,16 @@ let energy = 10;
 
 console.log('Game over: ', timeRemaining == 0 || energy == 0);
 
-// Add numbers using the + operator
+// Adding numbers using the + operator
 
 let numbers = 5 + 10;
 
 console.log(numbers);
+
+// Using the += operator to accumulate values in a variable
+
+let counter = 0;
+counter += 5;
+counter += 3;
+
+console.log(counter);
