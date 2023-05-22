@@ -1,1 +1,1 @@
-# My Meta Front-Web Developer Scholarship on Coursera.
+# My Meta Front-Web Developer Scholarship on Coursera
